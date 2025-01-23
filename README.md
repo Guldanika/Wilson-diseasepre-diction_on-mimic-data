@@ -74,7 +74,7 @@ If you have suggestions or want to extend this project with new features or meth
 ---
 
 ### 📢 **About the Author**
-Hi, I’m Guldnika! I have a diverse background in analytics, ranging from market research to sociological studies, and I’m passionate about applying machine learning to solve impactful problems in healthcare. Connect with me on [LinkedIn](https://linkedin.com/in/) or check out my other projects on [Kaggle](/https://www.kaggle.com/guldanikaosmonova).
+Hi, I’m Guldnika! I have a diverse background in analytics, ranging from market research to sociological studies, and I’m passionate about applying machine learning to solve impactful problems in healthcare. Connect with me on [LinkedIn](https://www.linkedin.com/in/guldanika-osmonova11/)  or check out my other projects on [Kaggle](/https://www.kaggle.com/guldanikaosmonova).
 
 ---
 
